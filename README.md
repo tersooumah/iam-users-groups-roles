@@ -36,16 +36,22 @@ Type the desired group name and click on 'create user group'
 Search 'IAM' on the search bar
 ![Artboard 1](https://github.com/user-attachments/assets/7a20955e-b860-487b-8312-16e69c2d6143)
 Click 'Roles' in Access Management under the 'Dashboard" at the left pane and then click on 'create role'
-![r1](https://github.com/user-attachments/assets/13faf2a3-8cdc-42a8-a1c2-f154ca790fe6)
+![r1](https://github.com/user-attachments/assets/8cc0e2d1-ed5e-4de5-8052-f574479d4828)
+![r2](https://github.com/user-attachments/assets/5e1f9dee-37db-46b9-85b4-84f89f89b9e6)
 
 Select 'Trusted entity type' and 'Use case' (EC2)
-![r2](https://github.com/user-attachments/assets/af35969f-80b5-4467-b657-8225870eb112)
+![r3](https://github.com/user-attachments/assets/aecba824-8380-4a4b-b9f1-90fcd9283de8)
 
 Select Permissions
-![r3](https://github.com/user-attachments/assets/9cfac6a5-f28f-4ae6-b857-17e2aea370f0)
+![r4](https://github.com/user-attachments/assets/c1bdd330-497f-4c8d-9e65-556d3a0ada78)
 
 Type desired 'Role Name' and click 'create role'
-![r4](https://github.com/user-attachments/assets/bbd49b99-56d5-45e2-9eb4-a1bfbe072e87)
+![r5](https://github.com/user-attachments/assets/fb6cb3a9-81c2-4e73-a902-911103a4153c)
+
+
+
+
+
 
 
 

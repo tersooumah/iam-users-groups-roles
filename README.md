@@ -5,6 +5,7 @@ This repo is a walkthrough on creating IAM users, user groups, and roles.
 
 ### Users
 Search 'IAM' on the search bar.
+![Artboard 1](https://github.com/user-attachments/assets/7a20955e-b860-487b-8312-16e69c2d6143)
 
 Click 'Users' in Access Management under the 'Dashboard" at the left pane and then click on 'create user'
 
@@ -21,7 +22,7 @@ Click 'User Group' in Access Management under the 'Dashboard" at the left pane a
 
 Type the desired group name and click on 'create user group'
 
-###Roles
+### Roles
 Search 'IAM' on the search bar
 
 Click 'Roles' in Access Management under the 'Dashboard" at the left pane and then click on 'create role'
@@ -31,4 +32,7 @@ Select 'Trusted entity type' and 'Use case' (EC2)
 Select Permissions
 
 Type desired 'Role Name' and click 'create role'
+
+
+
 
